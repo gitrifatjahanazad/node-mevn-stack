@@ -1,21 +1,12 @@
 # Mongo DB
 in mongo db equivalent term,
 
-<table>
-<th><tr><td>RDBMS</td><td>Mongodb</td></tr></th>
-<tr>
-<td>database</td>
-<td>database</td>
-</tr>
-<tr>
-<td>table</td>
-<td>collection</td>
-</tr>
-<tr>
-<td>row</td>
-<td>document</td>
-</tr>
-</table>
+| RDBMS     | Mongodb    |
+| ----------|:----------:|
+| database  | database   |
+| table     | collection |
+| row       | document   |
+
 
 ## Basic commands in mongo shell
 * to show all dbs,
