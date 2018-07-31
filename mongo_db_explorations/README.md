@@ -1,5 +1,21 @@
-# Mongo DB from CMD
-# in mongo shell
+# Mongo DB
+in mongo db equivalent term,
+<table>
+<th><tr><td>RDBMS</td><td>Mongodb</td></tr></th>
+<tr>
+<td>database</td>
+<td>database</td>
+</tr>
+<tr>
+<td>table</td>
+<td>collection</td>
+</tr>
+<tr>
+<td>row</td>
+<td>document</td>
+</tr>
+</table>
+## Basic commands in mongo shell
 * to show all dbs,
 ```
 show dbs
