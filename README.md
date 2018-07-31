@@ -1,10 +1,15 @@
 # Vue JS MEVN stack exploring
 
-## Mongo Explorings
+## 01. Mongo Explorings
 [Mongo explorings]()
-## Express Explorations
+## 02. Express Explorations
 [Express explorings](adf)
-## Vue Explorations
+## 03. Vue Explorations
 [Vue explorings](VUE_js_very_basic/vue_js_findings.md)
-## Node Explorations
+## 04. Node Explorations
 [Node explorings](adf)
+
+## Application setup helping instructions
+[application instructions](express_app/README.md)
+
+
