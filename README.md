@@ -1,7 +1,7 @@
 # Vue JS MEVN stack exploring
 
 ## 01. Mongo Explorings
-[Mongo explorings]()
+[Mongo explorings](mongo_db_explorations/README.md)
 ## 02. Express Explorations
 [Express explorings](adf)
 ## 03. Vue Explorations
