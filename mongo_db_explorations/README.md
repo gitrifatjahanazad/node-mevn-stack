@@ -1,5 +1,6 @@
 # Mongo DB
 in mongo db equivalent term,
+
 <table>
 <th><tr><td>RDBMS</td><td>Mongodb</td></tr></th>
 <tr>
@@ -15,6 +16,7 @@ in mongo db equivalent term,
 <td>document</td>
 </tr>
 </table>
+
 ## Basic commands in mongo shell
 * to show all dbs,
 ```
