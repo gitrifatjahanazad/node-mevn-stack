@@ -4,12 +4,22 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var fs = require('file-system');
+var mongoose = require('mongoose');
 
 // ###for controller these are not needed###
 // var indexRouter = require('./routes/index');
 // var usersRouter = require('./routes/users');
 
 var app = express();
+
+//connect to mongodb
+mongoose.connect('mongodb://localhost:27017/express_app', { useNewUrlParser: true } , function() {
+  console.log('Mongo db connection has been made');
+})
+.catch(err => {
+  console.error('App starting error:', err.stack);
+  process.exit(1);
+});
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
