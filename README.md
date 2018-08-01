@@ -10,6 +10,12 @@
 [Node explorings](adf)
 
 ## Application setup helping instructions
-[application instructions](express_app/README.md)
+[Application instructions](express_app/README.md)
+
+## Other Helpful Concepts
+[Helpful concepts](common/helpful_concepts.md)
+
+# References
+01. [Full-Stack Web Development with Vue.js and Node book from mapt site](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node)
 
 
